@@ -2,6 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat-square)](https://github.com/Arliezv/python-learning)
+[![Last Commit](https://img.shields.io/github/last-commit/Arliezv/python-learning?style=flat-square)](https://github.com/Arliezv/python-learning)
+[![Repo Size](https://img.shields.io/github/repo-size/Arliezv/python-learning?style=flat-square)](https://github.com/Arliezv/python-learning)
 
 Dokumentasi perjalanan belajar Python dari dasar. Project ini mencakup materi-materi fundamental Python yang dijelaskan dengan contoh code praktis.
 
