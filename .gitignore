@@ -28,3 +28,6 @@ desktop.ini
 # Virtual environments
 .venv/
 ENV/
+
+# OpenCode configuration (local)
+opencode.json
