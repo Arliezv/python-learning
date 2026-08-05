@@ -5,31 +5,45 @@
 [![Last Commit](https://img.shields.io/github/last-commit/Arliezv/python-learning?style=flat-square)](https://github.com/Arliezv/python-learning)
 [![Repo Size](https://img.shields.io/github/repo-size/Arliezv/python-learning?style=flat-square)](https://github.com/Arliezv/python-learning)
 
-Dokumentasi perjalanan belajar Python dari dasar. Project ini mencakup materi-materi fundamental Python yang dijelaskan dengan contoh code praktis.
+Dokumentasi perjalanan belajar Python dari dasar dalam bentuk **jurnal harian**: setiap hari satu konsep baru, lengkap dengan file kode dan catatan belajar.
 
 ---
 
 ## File-file yang Sudah Selesai
 
-| File | Topik | Deskripsi |
-|------|-------|-----------|
-| `belajar_variabel.py` | Variabel | Cara deklarasi dan penggunaan variabel di Python |
-| `belajar_tipedata.py` | Tipe Data | Tipe data: int, str, float, bool, dan operasinya |
-| `belajar_casting.py` | Casting | Konversi tipe data (type conversion) |
-| `belajar_aritmatika.py` | Aritmatika | Operator aritmatika dan prioritas operasi |
-| `belajar_operasi_komparasi.py` | Komparasi | Operator komparasi: ==, !=, <, >, <=, >= |
-| `operator_assignment.py` | Assignment | Operator assignment: +=, -=, *=, /=, //=, %=, **= |
+| File                           | Topik        | Deskripsi                                                          |
+| ------------------------------ | ------------ | ------------------------------------------------------------------ |
+| `belajar_variabel.py`          | Variabel     | Cara deklarasi dan penggunaan variabel di Python                   |
+| `belajar_tipedata.py`          | Tipe Data    | Tipe data: int, str, float, bool, dan operasinya                   |
+| `belajar_casting.py`           | Casting      | Konversi tipe data (type conversion)                               |
+| `belajar_aritmatika.py`        | Aritmatika   | Operator aritmatika dan prioritas operasi                          |
+| `belajar_operasi_komparasi.py` | Komparasi    | Operator komparasi: ==, !=, <, >, <=, >=                           |
+| `operator_assignment.py`       | Assignment   | Operator assignment: +=, -=, \*=, /=, //=, %=, \*\*=               |
+| `belajar_control_flow.py`      | Control Flow | Percabangan if/elif/else, perulangan for & while, break & continue |
 
 ---
 
-## Progress Harian
+## Jurnal Harian
 
-- [x] Hari 1 - Belajar variabel
-- [x] Hari 2 - Belajar tipe data
-- [x] Hari 3 - Belajar casting
-- [x] Hari 4 - Belajar aritmatika
-- [x] Hari 5 - Belajar operasi komparasi
-- [x] Hari 6 - Belajar operator assignment
+| Hari | Topik        | Status |
+| ---- | ------------ | ------ |
+| 1    | Variabel     | ✅     |
+| 2    | Tipe Data    | ✅     |
+| 3    | Casting      | ✅     |
+| 4    | Aritmatika   | ✅     |
+| 5    | Komparasi    | ✅     |
+| 6    | Assignment   | ✅     |
+| 7    | Control Flow | ✅     |
+
+### Catatan singkat
+
+- **Hari 1 (Variabel):** variabel = simpan nilai ke sebuah nama; Python tidak butuh deklarasi tipe dulu.
+- **Hari 2 (Tipe Data):** int, float, str, bool, masing-masing punya perilaku dan operasinya sendiri.
+- **Hari 3 (Casting):** casting = konversi tipe data, misalnya ubah string jadi angka.
+- **Hari 4 (Aritmatika):** operator `+ - * / % ** //` dan prioritas operasi, hitung dulu yang di dalam kurung.
+- **Hari 5 (Komparasi):** `== != < > <= >=` menghasilkan `True`/`False`.
+- **Hari 6 (Assignment):** operator `+= -= *= //= %= **=` mempersingkat assignment.
+- **Hari 7 (Control Flow):** `if/elif/else` untuk percabangan, `for` dan `while` untuk perulangan, `break` dan `continue` untuk kontrol loop.
 
 ---
 
@@ -42,6 +56,7 @@ python nama_file.py
 ```
 
 Contoh:
+
 ```bash
 python belajar_variabel.py
 python operator_assignment.py
@@ -59,6 +74,7 @@ python-learning/
 ├── belajar_aritmatika.py
 ├── belajar_operasi_komparasi.py
 ├── operator_assignment.py
+├── belajar_control_flow.py
 ├── README.md
 └── .gitignore
 ```
@@ -67,4 +83,4 @@ python-learning/
 
 ## Catatan
 
-Setiap file dirancang untuk pembelajaran step-by-step dengan penjelasan dan contoh kode yang mudah dipahami. Jalankan setiap file untuk melihat output dan memahami konsep yang diajarkan.
+Setiap file membahas satu konsep dari dasar, lengkap dengan contoh kode yang bisa langsung dijalankan. Jalankan file-nya untuk melihat hasilnya.
