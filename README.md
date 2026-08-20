@@ -20,6 +20,7 @@ Dokumentasi perjalanan belajar Python dari dasar dalam bentuk **jurnal harian**:
 | `belajar_operasi_komparasi.py` | Komparasi    | Operator komparasi: ==, !=, <, >, <=, >=                           |
 | `operator_assignment.py`       | Assignment   | Operator assignment: +=, -=, \*=, /=, //=, %=, \*\*=               |
 | `belajar_control_flow.py`      | Control Flow | Percabangan if/elif/else, perulangan for & while, break & continue |
+| `belajar_fungsi.py`            | Fungsi       | Deklarasi fungsi, parameter, return, default argument, local/global |
 
 ---
 
@@ -34,6 +35,7 @@ Dokumentasi perjalanan belajar Python dari dasar dalam bentuk **jurnal harian**:
 | 5    | Komparasi    | ✅     |
 | 6    | Assignment   | ✅     |
 | 7    | Control Flow | ✅     |
+| 8    | Fungsi       | ✅     |
 
 ### Catatan singkat
 
@@ -44,6 +46,7 @@ Dokumentasi perjalanan belajar Python dari dasar dalam bentuk **jurnal harian**:
 - **Hari 5 (Komparasi):** `== != < > <= >=` menghasilkan `True`/`False`.
 - **Hari 6 (Assignment):** operator `+= -= *= //= %= **=` mempersingkat assignment.
 - **Hari 7 (Control Flow):** `if/elif/else` untuk percabangan, `for` dan `while` untuk perulangan, `break` dan `continue` untuk kontrol loop.
+- **Hari 8 (Fungsi):** `def` untuk membungkus kode jadi blok yang bisa dipanggil ulang; parameter, `return`, default argument, dan scope local vs global.
 
 ---
 
